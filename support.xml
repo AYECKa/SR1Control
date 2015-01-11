@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Support Dump Details</comment>
+<entry key="RX1 LNB power">.1.3.6.1.4.1.27928.101.1.1.1.3.1.0</entry>
+<entry key="permanentStorageDevice">.1.3.6.1.4.1.27928.101.3.21.0</entry>
+<entry key="RX1 Standard">.1.3.6.1.4.1.27928.101.1.1.1.2.1.0</entry>
+<entry key="rxChipsetModel">.1.3.6.1.4.1.27928.101.3.22.0</entry>
+<entry key="RX1 Transport status">.1.3.6.1.4.1.27928.101.1.1.4.13.0</entry>
+<entry key="RX1 Freq">.1.3.6.1.4.1.27928.101.1.1.1.1.1.0</entry>
+<entry key="RX1 Acq BW">.1.3.6.1.4.1.27928.101.1.1.1.1.2.0</entry>
+<entry key="RX1 DemodStatus">.1.3.6.1.4.1.27928.101.1.1.4.11.0</entry>
+<entry key="RX1 NumFilters">.1.3.6.1.4.1.27928.101.1.1.5.0</entry>
+<entry key="RX1 22K">.1.3.6.1.4.1.27928.101.1.1.1.3.3.0</entry>
+<entry key="SN">.1.3.6.1.4.1.27928.101.3.3.0</entry>
+<entry key="RX1 FreqOffset">.1.3.6.1.4.1.27928.101.1.1.4.2.0</entry>
+<entry key="Active RX">.1.3.6.1.4.1.27928.101.1.3.1.0</entry>
+<entry key="RX1 BER">.1.3.6.1.4.1.27928.101.1.1.4.5.0</entry>
+<entry key="RX1 SR">.1.3.6.1.4.1.27928.101.1.1.1.2.2.0</entry>
+<entry key="RX1 Power Level">.1.3.6.1.4.1.27928.101.1.1.4.3.0</entry>
+<entry key="RX1 Esno">.1.3.6.1.4.1.27928.101.1.1.4.4.0</entry>
+<entry key="Rx1 Tuner status">.1.3.6.1.4.1.27928.101.1.1.4.1.0</entry>
+<entry key="production code">.1.3.6.1.4.1.27928.101.3.4.0</entry>
+</properties>

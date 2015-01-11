@@ -1,0 +1,6 @@
+package com.root;
+
+public class Version
+{
+    public static String VersionInfo = "1.01b$WCREV$";    
+}
